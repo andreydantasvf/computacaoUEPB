@@ -1,4 +1,4 @@
-<h1 align="center">SportFit</h1>
+<h1 align="center">Ciência da Computação WebSite</h1>
 
 ## 🔖Preview
 <div align="center">
