@@ -19,7 +19,7 @@ export const Header = () => {
   }
 
   return (
-    <header className="bg-[#D2E0FB] w-full h-20 flex items-center justify-center fixed top-0 z-20">
+    <header className="bg-[#7895CB] w-full h-20 flex items-center justify-center fixed top-0 z-20">
       <NavBarContext.Provider value={contextValue}>
         <NavBar />
       </NavBarContext.Provider>

@@ -22,7 +22,7 @@ export default function RootLayout({
       <Head>
         <meta name="color-scheme" content='light only' />
       </Head>
-      <body className={`${inter.className} bg-zinc-200 flex flex-col items-center justify-between h-screen`}>
+      <body className={`${inter.className} bg-zinc-100 flex flex-col items-center justify-between h-screen`}>
         <Header />
         {children}
         <Footer />
